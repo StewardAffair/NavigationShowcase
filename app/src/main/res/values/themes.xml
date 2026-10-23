@@ -1,0 +1,4 @@
+<resources>
+    <!-- XML-тема потрібна лише для вікна до старту Compose. Увесь UI оформлює MaterialTheme. -->
+    <style name="Theme.NavShowcase" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
